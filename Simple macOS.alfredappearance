@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "System Light",
+        "color" : "#00000065"
+      },
+      "shortcut" : {
+        "size" : 20,
+        "colorSelected" : "#FFFFFF00",
+        "font" : "System",
+        "color" : "#00000000"
+      },
+      "backgroundSelected" : "#84C5E1FF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#000000E5"
+      },
+      "iconPaddingHorizontal" : 8,
+      "paddingVertical" : 4,
+      "iconSize" : 28
+    },
+    "search" : {
+      "paddingVertical" : 5,
+      "background" : "#FFFFFF00",
+      "spacing" : 4,
+      "text" : {
+        "size" : 32,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#000000FF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#FFFFFFE5",
+      "paddingHorizontal" : 0,
+      "width" : 546,
+      "borderPadding" : 0,
+      "borderColor" : "#0000003D",
+      "blur" : 0,
+      "roundness" : 0,
+      "paddingVertical" : 4
+    },
+    "credit" : "Simon Andersson <simon@hiddencode.me>",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#A9A9A9FF",
+      "thickness" : 0
+    },
+    "name" : "Simple macOS"
+  }
+}
